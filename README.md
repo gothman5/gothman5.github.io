@@ -2,5 +2,8 @@
 Gulden Othman's landing page
 ## Gulden Othman
 
-## Lorem Ipsum
-Hello world
+
+
+## Selected Milestones from CV
+- bullet point
+- another point
