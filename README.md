@@ -7,5 +7,5 @@ Gulden Othman's landing page
 - another point
 
 
-## Supeerconducting Detector Characterization
+## Superconducting Detector Characterization
 ![TES_setup_pretty](/assets/TES_setup_pretty.jpg)
